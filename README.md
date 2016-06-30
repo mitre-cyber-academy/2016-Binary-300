@@ -27,3 +27,7 @@ The challenge box will then bind to port 2050 and brodcast the key for a short p
     docker build -t tinyworld-200 .
 
     docker run -d -p 2222:22 -p 2000-2100:2000-2100 --read-only --tmpfs /tmp tinyworld-200
+
+## Flag
+
+fba1b558b6b2df0c04670d8348e51a99b426f743
