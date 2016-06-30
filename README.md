@@ -1,6 +1,6 @@
 # Tinyworld 200
 
-In this challenge, competitors are provided with an anonymous SSH to a server under the username challenge@addr -P 2222 where when they log in they are presented with a prompt that will let them run any 5 character command with no special characters and set some environment variables, but not let them receive any output back from any of their commands.
+In this challenge, competitors are provided with an anonymous SSH to a server under the username challenge@addr -p 2222 where when they log in they are presented with a prompt that will let them run any 5 character command with no special characters and set some environment variables, but not let them receive any output back from any of their commands.
 
 ## Solution
 
