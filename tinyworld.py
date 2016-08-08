@@ -6,7 +6,8 @@ from time import sleep
 from random import randint
 
 print("Flag is flag.txt")
-print("I'll execute any (tiny) world you give me!")
+print("Let's have some interactive fun.")
+print("I'll execute any small world you give me.")
 key = raw_input("Give me an env key: ")
 value = raw_input("Give me an env value: ")
 cmd = ""
