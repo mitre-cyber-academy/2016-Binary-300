@@ -1,6 +1,6 @@
 # Tinyworld 200
 
-In this challenge, competitors are provided with an anonymous SSH to a server under the username challenge@addr -p 2222 where when they log in they are presented with a prompt that will let them run any 5 character command with no special characters and set some environment variables, but not let them receive any output back from any of their commands.
+In this challenge, competitors are provided with an anonymous SSH to a server under the username `challenge@addr -p 2222` where when they log in they are presented with a prompt that will let them run any 5 character command with no special characters and set some environment variables, but not let them receive any output back from any of their commands.
 
 As a note, make sure to setup the openstack firewall to ONLY allow 2000 - 2100 and 2222 in from competitors, this is in order to make the nmap scan that the users have to perform more obvious as to which ports are available for them to use.
 
